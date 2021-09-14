@@ -4,9 +4,9 @@ I'm backend Developer with 4 years of experience.
 
 Here are some ideas to get you started:
 
-- 👀 👀 👀 I’m interested in Rust!
+- 👀 I’m interested in Rust!
 - I’m currently learning Java And TypeScript 🌱 🌱 🌱 
-- 📫 📫 📫 You can reach me at this email address!
+- 📫 You can reach me at this email address!
 
 <!---
 ESGDeveloper/ESGDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
