@@ -4,7 +4,7 @@ I'm backend Developer with 4 years of experience.
 
 Here are some ideas to get you started:
 
-- 👀 I’m interested in Rust!
+- 👀 I’m interested in C# and JavaScript
 - I’m currently learning Java And TypeScript 🌱 🌱 🌱 
 - 📫 You can reach me at this email address!
 
