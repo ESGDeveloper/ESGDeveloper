@@ -1,11 +1,11 @@
 Hi,there! 👋👋👋 I'm ESG Developer!
 
-I'm backend Developer with 4 years of experience.
+I'm backend Developer with 8 years of experience.
 
 Here are some ideas to get you started:
 
-- 👀 I’m interested in C# and JavaScript
-- I’m currently learning Java And TypeScript 🌱 🌱 🌱 
+- 👀 I’m interested in Typescript, Python and C#
+- I’m currently learning Rust And LLM 🌱 🌱 🌱 
 - 📫 You can reach me at this email address!
 
 <!---
